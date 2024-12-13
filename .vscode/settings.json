@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "terminal.integrated.fontLigatures": true,
+    "notebook.output.fontFamily": "MesloLGS NF Regular",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
